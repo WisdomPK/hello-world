@@ -1,5 +1,3 @@
 # hello-world
-My First Repository
-Well, this is my first attempt on Github
-Looking forward to learn a lot and find some interesting work to do here
-P.S Github is really an amazing thing for the whole world
+注册之后就没怎么来过了
+突然发现还是得把落下的东西都尽力补回来，毕竟是自己喜欢的东西，就这么荒废了多可惜啊
